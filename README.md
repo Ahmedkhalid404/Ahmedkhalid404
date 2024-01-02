@@ -23,7 +23,6 @@ Currently, I'm actively learning:
 ### Hobbies and Interests
 - Enjoy gaming on PlayStation
 - A devoted Valorant player
-- https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white
 
 Fun Fact: Who knows, one day I might step into the gaming industry and contribute to the development of these amazing games!
 
