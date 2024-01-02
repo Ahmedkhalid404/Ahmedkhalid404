@@ -1,11 +1,11 @@
 # Hello there! 👋
 
-# About me
+# About Me
 I'm Ahmed Khaled, a computer science student at Helwan University, passionate about exploring the vast realm of computer science.
 
 ## Areas of Focus
 - **Major:** Computer Science
-- **Programming Languages:** Currently diving into Java, comfortable with C++
+- **Programming Languages:** Currently diving into Java, Python, and Spring. Comfortable with C++
 - **Web Technologies:** Explored HTML, CSS, and JavaScript for some cool college projects
 
 ## Experience and Achievements
@@ -13,9 +13,11 @@ I'm Ahmed Khaled, a computer science student at Helwan University, passionate ab
 - Proud Codeforces enthusiast
 - Passionate about algorithms and data structures
 
-## Hobbies and Interests
-- Enjoy gaming on PlayStation
-- A devoted Valorant player
+## Learning Journey
+Currently, I'm actively learning:
+- Java and Spring
+- Python
+- Machine Learning (Excited to delve deeper into this field!)
 
 ## Connect with Me
 - **LinkedIn:** [Ahmed Khaled Gomaa](https://www.linkedin.com/in/ahmed-khaled-01ba9b222/)
@@ -25,6 +27,7 @@ I'm Ahmed Khaled, a computer science student at Helwan University, passionate ab
 Excited to delve into backend development soon!
 
 Let's connect and explore the endless possibilities of the coding world together! 🚀
+
 
 
 
