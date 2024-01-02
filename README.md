@@ -12,6 +12,7 @@ I'm Ahmed Khaled, a computer science student at Helwan University, passionate ab
 - Participated in the ICPC competition
 - Proud Codeforces enthusiast
 - Passionate about algorithms and data structures
+- Competitive Programming and avid problem solver
 
 ## Learning Journey
 Currently, I'm actively learning:
@@ -27,6 +28,7 @@ Currently, I'm actively learning:
 Excited to delve into backend development soon!
 
 Let's connect and explore the endless possibilities of the coding world together! 🚀
+
 
 
 
