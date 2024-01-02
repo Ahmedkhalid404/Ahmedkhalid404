@@ -20,6 +20,12 @@ Currently, I'm actively learning:
 - Python
 - Machine Learning (Excited to delve deeper into this field!)
 
+## Hobbies and Interests
+- Enjoy gaming on PlayStation
+- A devoted Valorant player
+
+Fun Fact: Who knows, one day I might step into the gaming industry and contribute to the development of these amazing games!
+
 ## Connect with Me
 - **LinkedIn:** [Ahmed Khaled](https://www.linkedin.com/in/ahmed-khaled-01ba9b222/)
 - **Codeforces:** [_GOM3A_](https://codeforces.com/profile/_GOM3A_)
@@ -28,6 +34,7 @@ Currently, I'm actively learning:
 Excited to delve into backend development soon!
 
 Let's connect and explore the endless possibilities of the coding world together! 🚀
+
 
 
 
