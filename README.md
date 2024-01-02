@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-# About Me
+## About Me
 I'm Ahmed Khaled, a computer science student at Helwan University, passionate about exploring the vast realm of computer science.
 
 ### Areas of Focus
