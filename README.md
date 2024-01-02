@@ -21,7 +21,7 @@ Currently, I'm actively learning:
 - Machine Learning (Excited to delve deeper into this field!)
 
 ## Connect with Me
-- **LinkedIn:** [Ahmed Khaled Gomaa](https://www.linkedin.com/in/ahmed-khaled-01ba9b222/)
+- **LinkedIn:** [Ahmed Khaled](https://www.linkedin.com/in/ahmed-khaled-01ba9b222/)
 - **Codeforces:** [_GOM3A_](https://codeforces.com/profile/_GOM3A_)
 
 ## What's Next
